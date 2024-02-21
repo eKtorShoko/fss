@@ -5,7 +5,7 @@ div.ex1 {
 }
 
 div.ex2 {
-  max-width: 50px;
+  max-idth: 50px;
   margin: auto;
   border: 3px sold #3D1;
 }
